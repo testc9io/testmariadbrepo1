@@ -1,0 +1,2 @@
+sudo sh InstallMariaDB.sh
+python3 CreateTablesInTestDatabase.py
